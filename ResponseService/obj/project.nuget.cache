@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "l5R2E/h7V0WzAtqwj+apJQJmYdxIMXXttaZSrfC+ALdFvBMCclKiX5gKlsi82BqgQ0sPt+BVyrxZHwU4ivWq1w==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Fault Handling_Polly\\ResponseService\\ResponseService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\iman\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\iman\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\iman\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\iman\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\iman\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\iman\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
